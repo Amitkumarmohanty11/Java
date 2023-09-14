@@ -1,5 +1,5 @@
 package problem_solved;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class Leap_year {
     public static void returnLeapYear(int year){
