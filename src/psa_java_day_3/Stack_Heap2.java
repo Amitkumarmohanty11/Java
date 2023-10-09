@@ -9,6 +9,6 @@ public class Stack_Heap2 {
     }
     public void xyz(){
 
-        System.out.println(a1.a);
+        //System.out.println(a1.a);
     }
 }
