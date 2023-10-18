@@ -9,7 +9,7 @@ public class Return2 {
     }
     public void test(){
         return;
-        System.out.println(100);
+        //System.out.println(100);
     }
 }
 //O/P == unreachable statement
