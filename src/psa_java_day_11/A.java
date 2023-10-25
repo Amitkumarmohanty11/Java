@@ -10,7 +10,7 @@ public class A {
     }
     A(){
         System.out.println(100);
-        this(100);// Error because it can not be second statement
+       // this(100);// Error because it can not be second statement
     }
 
     public static void main(String[] args) {
